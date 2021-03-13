@@ -1,7 +1,7 @@
 ---
 name: 'add number'
 description: 'addition of two numbers in python'
-author: '@shivesh01'
+author: '@shivesh02'
 ---
 
 How to add two numbers in python. :)
